@@ -5,6 +5,7 @@ mkdir -p ~/catkin_ws/src
 ```  
 ```  
 cd ~/catkin_ws/src
+```
 ```  
 git clone https://github.com/hussains72/OpenCV-in-ROS-Noetic.git  
 ```
