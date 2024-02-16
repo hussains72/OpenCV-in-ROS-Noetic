@@ -13,6 +13,7 @@ rosrun image_view image_view image:=/camera
 In another terminal type:  
 roslaunch cv_basics cv_basics_cpp.launch  
 rqt  
+Nodes and Topics Active  
        
 ![rosgraph](https://github.com/hussains72/OpenCV-in-ROS-Noetic/assets/72862982/0362a09b-c9da-43ea-b687-fee4d35dcca6)
 
