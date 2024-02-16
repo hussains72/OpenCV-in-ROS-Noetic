@@ -23,6 +23,7 @@ roscd cv_basics/src
 ```
 ``` 
 cd ~/catkin_ws  
+```
 ```  
 rosrun image_view image_view image:=/camera
 ```
