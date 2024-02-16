@@ -34,5 +34,6 @@ rqt
 
 Nodes and Topics Active  
        
-![rosgraph](https://github.com/hussains72/OpenCV-in-ROS-Noetic/assets/72862982/0362a09b-c9da-43ea-b687-fee4d35dcca6)
 
+
+![rosgraph](https://github.com/hussains72/OpenCV-in-ROS-Noetic/assets/72862982/1d919a4b-8057-471f-8cea-b0069598f024)
